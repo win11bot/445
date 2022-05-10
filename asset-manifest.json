@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://pr-preview.win11react.com/445/static/css/main.55c1e4a8.css",
+    "main.js": "https://pr-preview.win11react.com/445/static/js/main.921cf690.js",
+    "static/media/spotify.ttf": "https://pr-preview.win11react.com/445/static/media/spotify.e0e1dc5c97e13d79c9fd.ttf",
+    "static/media/SettingsIcons.woff2": "https://pr-preview.win11react.com/445/static/media/SettingsIcons.05b3fe8c6c4599103d72.woff2",
+    "static/media/spotify.woff2": "https://pr-preview.win11react.com/445/static/media/spotify.add3c9225e28bf644f29.woff2",
+    "index.html": "https://pr-preview.win11react.com/445/index.html",
+    "main.55c1e4a8.css.map": "https://pr-preview.win11react.com/445/static/css/main.55c1e4a8.css.map",
+    "main.921cf690.js.map": "https://pr-preview.win11react.com/445/static/js/main.921cf690.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c1e4a8.css",
+    "static/js/main.921cf690.js"
+  ]
+}
